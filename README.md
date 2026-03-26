@@ -53,7 +53,7 @@ Figma (design e prototipagem)
 Acesse o projeto no Figma:
 👉 https://www.figma.com/design/nw2ln3ADuCBQzcHPGm08pm/Viagem-APP?node-id=703-85&p=f&t=IyF4aPbbIadIBpuB-0
 
-<img src=" 
+ <img src="https://raw.githubusercontent.com/sbr-rodrigues/Pasticcenaria-Raffinatezza/refs/heads/main/Pasticcenaria_Raffinatezza.png" alt="pasticcenaria raffinateza"/> 
 
 💡 Aprendizados
 
