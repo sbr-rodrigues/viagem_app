@@ -53,6 +53,8 @@ Figma (design e prototipagem)
 Acesse o projeto no Figma:
 👉 https://www.figma.com/design/nw2ln3ADuCBQzcHPGm08pm/Viagem-APP?node-id=703-85&p=f&t=IyF4aPbbIadIBpuB-0
 
+<img src=" 
+
 💡 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram adquiridos conhecimentos importantes como:
